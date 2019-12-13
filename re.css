@@ -1,0 +1,75 @@
+body {
+	width: 100%;
+}
+
+img {
+  	max-width: 100%;
+  	height: auto;
+}
+
+#logo_img {
+	float: right;
+	padding-right: 10%;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#r1c2 {
+	float: right;
+	padding-top: 30px;
+	padding-right: 10%;
+}
+ul {
+	float: right;
+	padding-top: 10px;
+	padding-right: 55px;
+	padding-bottom: 10px;
+}
+
+#r2 {
+	background-color: #a6a9a2;
+}
+#r2c1 {
+	color: white;
+	font-size: 20px;
+}
+#r2img {
+	margin-left: 25%;	
+}
+#r1bt {
+	padding: 10px 30px;
+	margin-left: 15px;
+	background-color: #70716b;
+	color: white;
+}
+
+#r3 {
+	background: url('images/hbg2.png');
+  	background-repeat: no-repeat;
+}
+
+#r4c1 {
+	padding-left: 10%;
+}
+
+#r6 {
+	background: url('images/hbg6.png');
+  	background-repeat: no-repeat;
+}
+
+.whatever_h3 {
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#r6c1 {
+	float: right;
+	background-color: white;
+	margin-left: 30%;
+}
+#r6c2 {
+	float: left;
+	background-color: white;
+	margin-left: 30%;
+}
